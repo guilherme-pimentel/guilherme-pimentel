@@ -1,16 +1,47 @@
-### Hi there 👋
+<!-- Título -->
+# Olá, eu sou o Guilherme Bezerra Pimentel👋
 
-<!--
-**guilherme-pimentel/guilherme-pimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Subtítulo -->
+## Sobre mim
 
-Here are some ideas to get you started:
+Olá! Meu nome é Guilherme, e atualmente sou um estudante do Instituto Federal Baiano Campus Guanambi, onde estou cursando Informática para Internet. Desde criança, sempre fui fascinado pelo mundo da tecnologia e dos computadores, o que me levou a escolher esse curso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Idade:** 16 anos
+
+**Cidade:** Guanambi, Bahia, Brasil
+
+**Escola:** Instituto Federal Baiano Campus Guanambi
+
+**Curso:** Informática para Internet
+
+
+<!-- Meus Objetivos -->
+## Meus Objetivos
+
+- **Aprender a Programar:** Estou ansioso para aprender as linguagens de programação, para fazer meus próprios programas.
+
+- **Explorar o Desenvolvimento Web:** Tenho curiosidade sobre o desenvolvimento de sites e gostaria de criar minhas próprias páginas da web.
+
+- **Participar de Projetos:** Espero me envolver em projetos colaborativos e trabalhar em equipe para construir soluções tecnológicas.
+
+
+<!-- Ícones de Redes Sociais -->
+### Redes Sociais
+
+[![GitHub](https://img.shields.io/badge/GitHub-Username-blue)](https://github.com/guilherme-pimentel)
+[![Instragam](https://img.shields.io/badge/Instragam-Username-blue)](https://instagram.com/guilhermekar21?igshid=OGQ5ZDc2ODk2ZA==)
+
+<!-- Hobbies -->
+## Hobbies
+
+Fora da sala de aula, gosto de:
+
+- Jogar videogames 🎮
+- Jogar basquete
+- Assistir a tutoriais de programação no YouTube 📺
+
+<!-- Footer -->
+<hr>
+<p align="center">
+  Ansioso para aprender e crescer na área de informática!
+</p>
