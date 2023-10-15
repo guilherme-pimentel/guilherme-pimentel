@@ -34,11 +34,9 @@ Fora da sala de aula, gosto de:
 - Jogar basquete
 - Assistir a tutoriais de programação no YouTube 📺
   
-<div>
-  <a href="https://github.com/guilherme-pimentel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-pimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-pimentel&layout=compact&langs_count=16&theme=dracula"/>
- 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme-pimentel&show_icons=true&count_private=true&hide_border=true&title_color=9BA4B5&icon_color=394867&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme (Fzn) GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-pimentel&layout=compact&hide_border=true&title_color=394867&text_color=9BA4B5&bg_color=0d1117" />
 </div>
 
 
