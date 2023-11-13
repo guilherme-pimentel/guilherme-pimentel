@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Guilherme Bezerra Pimentel👋
+# Olá, eu sou Guilherme Bezerra Pimentel👋
 
 ## Sobre mim
 
