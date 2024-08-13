@@ -5,7 +5,7 @@
 
 Olá! Meu nome é Guilherme, e atualmente sou um estudante do Instituto Federal Baiano Campus Guanambi, onde estou cursando Informática para Internet. Desde criança, sempre fui fascinado pelo mundo da tecnologia e dos computadores, o que me levou a escolher esse curso.
 
-**Idade:** 16 anos
+**Idade:** 17 anos
 
 **Cidade:** Guanambi, Bahia, Brasil
 
@@ -32,7 +32,6 @@ Fora da sala de aula, gosto de:
 
 - Jogar videogames 🎮
 - Jogar basquete
-- Assistir a tutoriais de programação no YouTube 📺
   
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme-pimentel&show_icons=true&count_private=true&hide_border=true&title_color=9BA4B5&icon_color=394867&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme (Fzn) GitHub stats" /> 
