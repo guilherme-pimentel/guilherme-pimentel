@@ -23,8 +23,8 @@ Olá! Meu nome é Guilherme, e atualmente sou um estudante do Instituto Federal 
 
 ### Redes Sociais
 
-[![GitHub](https://img.shields.io/badge/GitHub-Username-blue)](https://github.com/guilherme-pimentel)
-[![Instragam](https://img.shields.io/badge/Instragam-Username-blue)](https://instagram.com/guilhermekar21?igshid=OGQ5ZDc2ODk2ZA==)
+[![GitHub](https://img.shields.io/badge/GitHub-guilherme-pimentel-blue)](https://github.com/guilherme-pimentel)
+[![Instragam](https://img.shields.io/badge/Instragam-@guilhermekar21-blue)](https://instagram.com/guilhermekar21?igshid=OGQ5ZDc2ODk2ZA==)
 
 ## Hobbies
 
